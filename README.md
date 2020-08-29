@@ -1,4 +1,4 @@
-# mdis online galleryweb-frontend
+# mdis online gallery web-frontend
 
 ## Project setup
 ```

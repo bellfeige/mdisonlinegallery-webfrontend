@@ -1,5 +1,7 @@
 # mdis online gallery web-frontend
 
+Backend API repo: https://github.com/bellfeige/MDISOnlineGallery-Backend
+
 ## Project setup
 ```
 npm install

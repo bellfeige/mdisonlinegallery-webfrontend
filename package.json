@@ -3,13 +3,24 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build"
+    "serve": "vue-cli-service serve --port 80",
+    "build": "vue-cli-service build --port 8080"
   },
   "dependencies": {
+    "axios": "^0.19.2",
+    "bootstrap": "^4.5.0",
+    "bootstrap-vue": "^2.15.0",
     "core-js": "^3.6.5",
+    "v-credit-card": "^1.2.4",
+    "vee-validate": "^3.3.7",
     "vue": "^2.6.11",
-    "vue-router": "^3.2.0"
+    "vue-bootstrap-sidebar": "^1.0.8",
+    "vue-confirm-dialog": "^1.0.2",
+    "vue-headful": "^2.1.0",
+    "vue-interactive-paycard": "^1.0.0",
+    "vue-moment": "^4.1.0",
+    "vue-router": "^3.2.0",
+    "vue-scrollto": "^2.18.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.4.0",

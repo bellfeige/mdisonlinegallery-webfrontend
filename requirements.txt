@@ -1,0 +1,8 @@
+vue create xxx
+npm install --save axios vue
+npm install vue bootstrap-vue bootstrap
+npm i vue-headful
+npm install vue-moment
+npm install --save vue-scrollto
+npm install --save v-credit-card
+npm install --save vue-social-sharing
